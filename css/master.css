@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'PT Sans', sans-serif;
+}
+body{
+ background-image: url("https://img.freepik.com/vettori-gratuito/sfondo-acquerello-colorato_23-2148113769.jpg?size=626&ext=jpg");
+ background-size: cover;
+ color: black;
+ text-align: center;
+}
